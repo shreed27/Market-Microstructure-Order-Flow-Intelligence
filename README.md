@@ -1,4 +1,4 @@
-🚀#Complete Project Roadmap: Order Flow & Market Microstructure Analysis (Citadel-Level HFT System)
+🚀#Order Flow & Market Microstructure Analysis (Citadel-Level HFT System)
 
 This project is structured into six advanced phases, integrating HFT techniques, ML models, real-time dashboards, and optimized execution strategies.
 
