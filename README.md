@@ -4,7 +4,9 @@ As a Quantitative trader/researcher my role is to dissect order flow dynamics, i
 1. Data Acquisition & Processing
 
 A. Source raw order book data (L1 & L2) from equity, futures, or crypto exchanges.
+
 B. Normalize timestamps, reconstruct order flow, and clean anomalies.
+
 C. Develop efficient data structures for real-time analysis.
 
 2. Exploratory Microstructure Analysis
